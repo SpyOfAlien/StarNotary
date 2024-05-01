@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "test": "truffle test"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^2.5.1"
+  }
+}
